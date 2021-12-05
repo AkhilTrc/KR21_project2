@@ -1,0 +1,100 @@
+Is Winter? d-separated from Sprinkler? given Winter??  True
+Is Winter? d-separated from Sprinkler? given Sprinkler??  False
+Is Winter? d-separated from Sprinkler? given Rain??  False
+Is Winter? d-separated from Sprinkler? given Wet Grass??  False
+Is Winter? d-separated from Sprinkler? given Slippery Road??  False
+Is Winter? d-separated from Rain? given Winter??  True
+Is Winter? d-separated from Rain? given Sprinkler??  False
+Is Winter? d-separated from Rain? given Rain??  False
+Is Winter? d-separated from Rain? given Wet Grass??  False
+Is Winter? d-separated from Rain? given Slippery Road??  False
+Is Winter? d-separated from Wet Grass? given Winter??  True
+Is Winter? d-separated from Wet Grass? given Sprinkler??  False
+Is Winter? d-separated from Wet Grass? given Rain??  False
+Is Winter? d-separated from Wet Grass? given Wet Grass??  False
+Is Winter? d-separated from Wet Grass? given Slippery Road??  False
+Is Winter? d-separated from Slippery Road? given Winter??  True
+Is Winter? d-separated from Slippery Road? given Sprinkler??  False
+Is Winter? d-separated from Slippery Road? given Rain??  True
+Is Winter? d-separated from Slippery Road? given Wet Grass??  False
+Is Winter? d-separated from Slippery Road? given Slippery Road??  False
+Is Sprinkler? d-separated from Winter? given Winter??  True
+Is Sprinkler? d-separated from Winter? given Sprinkler??  False
+Is Sprinkler? d-separated from Winter? given Rain??  False
+Is Sprinkler? d-separated from Winter? given Wet Grass??  False
+Is Sprinkler? d-separated from Winter? given Slippery Road??  False
+Is Sprinkler? d-separated from Rain? given Winter??  True
+Is Sprinkler? d-separated from Rain? given Sprinkler??  False
+Is Sprinkler? d-separated from Rain? given Rain??  False
+Is Sprinkler? d-separated from Rain? given Wet Grass??  False
+Is Sprinkler? d-separated from Rain? given Slippery Road??  False
+Is Sprinkler? d-separated from Wet Grass? given Winter??  False
+Is Sprinkler? d-separated from Wet Grass? given Sprinkler??  False
+Is Sprinkler? d-separated from Wet Grass? given Rain??  False
+Is Sprinkler? d-separated from Wet Grass? given Wet Grass??  False
+Is Sprinkler? d-separated from Wet Grass? given Slippery Road??  False
+Is Sprinkler? d-separated from Slippery Road? given Winter??  True
+Is Sprinkler? d-separated from Slippery Road? given Sprinkler??  False
+Is Sprinkler? d-separated from Slippery Road? given Rain??  True
+Is Sprinkler? d-separated from Slippery Road? given Wet Grass??  False
+Is Sprinkler? d-separated from Slippery Road? given Slippery Road??  False
+Is Rain? d-separated from Winter? given Winter??  True
+Is Rain? d-separated from Winter? given Sprinkler??  False
+Is Rain? d-separated from Winter? given Rain??  False
+Is Rain? d-separated from Winter? given Wet Grass??  False
+Is Rain? d-separated from Winter? given Slippery Road??  False
+Is Rain? d-separated from Sprinkler? given Winter??  True
+Is Rain? d-separated from Sprinkler? given Sprinkler??  False
+Is Rain? d-separated from Sprinkler? given Rain??  False
+Is Rain? d-separated from Sprinkler? given Wet Grass??  False
+Is Rain? d-separated from Sprinkler? given Slippery Road??  False
+Is Rain? d-separated from Wet Grass? given Winter??  False
+Is Rain? d-separated from Wet Grass? given Sprinkler??  False
+Is Rain? d-separated from Wet Grass? given Rain??  False
+Is Rain? d-separated from Wet Grass? given Wet Grass??  False
+Is Rain? d-separated from Wet Grass? given Slippery Road??  False
+Is Rain? d-separated from Slippery Road? given Winter??  False
+Is Rain? d-separated from Slippery Road? given Sprinkler??  False
+Is Rain? d-separated from Slippery Road? given Rain??  True
+Is Rain? d-separated from Slippery Road? given Wet Grass??  False
+Is Rain? d-separated from Slippery Road? given Slippery Road??  False
+Is Wet Grass? d-separated from Winter? given Winter??  True
+Is Wet Grass? d-separated from Winter? given Sprinkler??  False
+Is Wet Grass? d-separated from Winter? given Rain??  False
+Is Wet Grass? d-separated from Winter? given Wet Grass??  False
+Is Wet Grass? d-separated from Winter? given Slippery Road??  False
+Is Wet Grass? d-separated from Sprinkler? given Winter??  False
+Is Wet Grass? d-separated from Sprinkler? given Sprinkler??  False
+Is Wet Grass? d-separated from Sprinkler? given Rain??  False
+Is Wet Grass? d-separated from Sprinkler? given Wet Grass??  False
+Is Wet Grass? d-separated from Sprinkler? given Slippery Road??  False
+Is Wet Grass? d-separated from Rain? given Winter??  False
+Is Wet Grass? d-separated from Rain? given Sprinkler??  False
+Is Wet Grass? d-separated from Rain? given Rain??  False
+Is Wet Grass? d-separated from Rain? given Wet Grass??  False
+Is Wet Grass? d-separated from Rain? given Slippery Road??  False
+Is Wet Grass? d-separated from Slippery Road? given Winter??  False
+Is Wet Grass? d-separated from Slippery Road? given Sprinkler??  False
+Is Wet Grass? d-separated from Slippery Road? given Rain??  True
+Is Wet Grass? d-separated from Slippery Road? given Wet Grass??  False
+Is Wet Grass? d-separated from Slippery Road? given Slippery Road??  False
+Is Slippery Road? d-separated from Winter? given Winter??  True
+Is Slippery Road? d-separated from Winter? given Sprinkler??  False
+Is Slippery Road? d-separated from Winter? given Rain??  True
+Is Slippery Road? d-separated from Winter? given Wet Grass??  False
+Is Slippery Road? d-separated from Winter? given Slippery Road??  False
+Is Slippery Road? d-separated from Sprinkler? given Winter??  True
+Is Slippery Road? d-separated from Sprinkler? given Sprinkler??  False
+Is Slippery Road? d-separated from Sprinkler? given Rain??  True
+Is Slippery Road? d-separated from Sprinkler? given Wet Grass??  False
+Is Slippery Road? d-separated from Sprinkler? given Slippery Road??  False
+Is Slippery Road? d-separated from Rain? given Winter??  False
+Is Slippery Road? d-separated from Rain? given Sprinkler??  False
+Is Slippery Road? d-separated from Rain? given Rain??  True
+Is Slippery Road? d-separated from Rain? given Wet Grass??  False
+Is Slippery Road? d-separated from Rain? given Slippery Road??  False
+Is Slippery Road? d-separated from Wet Grass? given Winter??  False
+Is Slippery Road? d-separated from Wet Grass? given Sprinkler??  False
+Is Slippery Road? d-separated from Wet Grass? given Rain??  True
+Is Slippery Road? d-separated from Wet Grass? given Wet Grass??  False
+Is Slippery Road? d-separated from Wet Grass? given Slippery Road??  False
